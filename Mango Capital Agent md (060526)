@@ -1,0 +1,747 @@
+# Mango Capital agents.md
+
+> **Purpose.** This document is a structured profile of Mango Capital intended to (a) ground AI agents acting on behalf of the firm with accurate, up-to-date context, and (b) serve as an internal-quality firm overview for LPs, founders, scouts, and partners.
+>
+> **Maintenance.** Sections tagged `[TBD]` are still to be completed. Public sections are sourced from [mangocap.com](https://www.mangocap.com), regulatory filings, and press coverage as of May 2026; ideally refresh semi-annually.
+
+----
+
+## 1. Firm Overview
+
+| | |
+|---|---|
+| **Name** | Mango Capital |
+| **Founded** | 2018 |
+| **Structure** | Solo-GP venture capital firm |
+| **Team** | CFO, Marketing, Investor Relations, Mango Scouts, Talent |
+| **Stage** | Pre-seed and seed (with selective follow-on) |
+| **Sector** | Enterprise technology - agent / AI infrastructure and intelligent applications |
+| **Headquarters** | San Francisco Bay Area |
+| **AUM** | >$170M across active funds |
+| **Typical investment** | $1–2M initial, for ~10% initial ownership, with limited reserves for follow-on |
+| **Active vehicles** | Mango Capital 2018, Mango Capital 2020, Mango Capital 2022, Mango Capital Opportunity 2022, Mango Capital 2025 |
+| **Website** | [mangocap.com](https://www.mangocap.com) |
+| **Contact** | robin@mangocap.com | cfo@mangocap.com |
+| **Investor Relations** | ir@mangocap.com |
+| **Media** | media@mangocap.com |
+
+### Snapshot 
+
+Mango Capital invests at inception — before product-market fit and before the market catches on. Focused by design — agent infrastructure and intelligent applications. We source through a curated network of founders and drive strategic partnerships within the portfolio. Decades of personal relationships with enterprise executives and top investors mean we can open the right doors for founders. Historical market context and technical depth — that's the edge.
+
+True venture capital is about early conviction, informed opinions and honest feedback.
+
+### Investment thesis (one paragraph)
+
+Mango Capital backs pre-seed and seed-stage enterprise software companies, led by product- and technical-founders, typically when the company is under 5-10 employees. Themes span open source, devops, monitoring, databases, security, networking, agent and AI infrastructure, and common application services. Application investments focus on leveraging LLMs, computer vision, and modern application integration - targeting enterprise departmental solutions across sales, marketing, support, engineering, finance, and supply chain, or vertical markets in finance, commerce, and the public sector. The firm leverages a deep network of founders and enterprise executives as Mango Scouts to help source companies as well as to collaborate on product architecture, product strategy, market positioning, recruiting, fundraising, and early partner and customer development. An important part of the firm strategy is to proactively connect adjacent portfolio companies as strategic partners.
+
+----
+
+## 2. Team
+
+### Robin Vasan - Founder & Managing Partner
+
+Robin Vasan is the founder and solo investing partner of Mango Capital. He has spent over 25 years backing enterprise software founders, exclusively at (what is now called) seed stage. Prior to founding Mango Capital in 2018, Robin spent 20 years (1997 to 2017) as a partner at Mayfield Fund, where he was personally responsible for generating over $1.5B in distributions on roughly $224M of invested capital, with another ~$150M in unrealized value still to be returned. Across his career he has invested in companies including HashiCorp, Marketo, Couchbase, Centrify, webMethods, Alfresco, Webroot, Center and Isovalent. He works directly with technical founders forming their initial product and go-to-market strategies - the "mango seed" rounds (typically $3–5M total round size) that give the firm its name.
+
+- **LinkedIn:** [linkedin.com/in/robinvasan](https://www.linkedin.com/in/robinvasan/)
+- **Email:** robin@mangocap.com
+- **Education:** Robin graduated Stanford University in 1988 with a dual degree in Industrial Engineering and Economics. He also attended Harvard Business School and earned an MBA in 1999.
+- **Operating Experience:** Before joining the venture industry in 1997, Robin spent ~10 years building enterprise software as a founder, CTO, Chief Architect, VP Product and/or VP Engineering of three successful enterprise software companies in financial services. C-ATS Software (1988-1989) - PC-based derivatives pricing. Infinity Financial Technology (1989-1994) - Sun and Sybase client-server derivatives pricing, risk management and back office processing. And Risk Management Solutions (RMS) (1994-1997) - natural disaster insurance risk and loss modeling. All three companies had successful exits with 2 IPOs and all 3 ultimately being acquired.
+
+### Chief Financial Officer - Kristina Dayback
+
+- **Role:** Oversees fund finance, accounting, audit, tax, LP reporting, capital calls and distributions, fund administration vendor management, and treasury across all Mango Capital fund vehicles.
+- **Background:** Kristina Dayback brings over 17 years of experience in venture capital and private equity fund operations to Mango Capital, with a background spanning fund administration, operational infrastructure, investor reporting, and firm scalability. She co-founded Carta Fund Administration, helping build one of the industry's leading fund administration platforms from the ground up, and later served as Chief Operating Officer of Vector AIS, where she led operational and process infrastructure through a period of significant growth. She holds a B.S.A. in Accounting, a Master of Accountancy (MAcc), and is an inactive Certified Management Accountant (CMA).
+- **Email:** cfo@mangocap.com
+- **LinkedIn:** [linkedin.com/in/kristina-dayback-cma-3081863b](https://www.linkedin.com/in/kristina-dayback-cma-3081863b/)
+
+### Marketing & Investor Relations - Laura Porto
+
+- **Role:** Leads firm marketing, brand, media communications, LP relations, annual meeting, quarterly LP updates, webinars and media programs.
+- **Background:** Laura brings 18 years of marketing leadership to Mango Capital, with the past 4 years dedicated to venture capital—building marketing and communications programs that serve both current investors and prospective LPs. Prior to VC, she spent over a decade leading marketing across healthcare, including health tech and health system work. Across her career she has built and led teams, set marketing strategy, and driven execution of brand, communications, and lead generation campaigns. At Mango Capital, she connects that operating experience to the firm's relationships with its LP base and the broader market.
+- **Email:** ir@mangocap.com
+- **LinkedIn:** [linkedin.com/in/laura-porto-lovell](https://www.linkedin.com/in/laura-porto-lovell/)
+
+### Working with Mango Capital (agent context)
+
+When an AI agent is acting on behalf of Mango Capital:
+
+- **Investment decisions, term sheets, founder commitments ** Robin Vasan only.
+- **LP communications, capital calls, fund-level financials, K-1s ** route through Kristina Dayback.
+- **Founder updates, press / brand, scout program, LP marketing materials, annual meeting ** route through Laura Porto.
+- **Inbound founder pitches ** forward to Robin Vasan; the firm prioritizes warm intros from the Scout network and existing founders.
+
+----
+
+## 3. Portfolio
+
+## 3.0 Portfolio - all fund investments active and exited
+
+# Mango Capital - Combined Seed Portfolio (Funds 2018, 2020, 2022, 2025)
+
+All 70 companies across the four seed funds, in alphabetical order. Sources: the Mango Capital portfolio spreadsheet and www.mangocap.com.
+
+| Company | Founders | Status | Website | Invested | Team Size at time of Investment | Source | Location | Theme / Sector |
+|---------|----------|--------|---------|----------|------------|--------|----------|-------|
+| Alguna | Aleks Dekic, Jamie MacLeod | Active | [www.alguna.io](https://www.alguna.io) | Q1 2024 | 3 | Scout | Europe | Agent Infrastructure |
+| Arclight AI | Charles Zedlewski | Realized (0.94x, 2020) | - | Q2 2020 | - | - | USA | Intelligent Applications |
+| ArmorBlox | Dhananjay (DJ) Sampath, Anand Raghavan | Acquired by Cisco | [www.armorblox.com](https://www.armorblox.com) | Q1 2019 | 3 | Scout | USA | Network & Security |
+| Armory | Daniel Odio, Ben Mappen | Acquired by Harness | [www.armory.io](https://www.armory.io) | Q1 2019 | 7 | Scout | USA | Devops & Monitoring |
+| Axiom | Neil Patel, Seif Lotfy, Gord Allott | Active | [www.axiom.co](https://www.axiom.co) | Q4 2017 | 3 | Direct | Europe | Agent Infrastructure |
+| Censys | Brian Kelly, David Corcoran, Zakir Durumeric, David Adrian | Active | [censys.io](https://censys.io) | Q1 2019 | 4 | Direct | USA | Network & Security |
+| Center | Naveen Singh, Steve Singh | Acquired by American Express | [getcenter.com](https://getcenter.com) | Q2 2020 | 9 | Direct | USA | Intelligent Applications |
+| Chainloop | Daniel Liszka, Miguel Martinez | Active | [www.chainloop.dev](https://chainloop.dev/) | Q1 2026 | 5 | Direct | Europe | Software Factory |
+| Checkly | Tim Nolet, Hannes Lenke, Timo Euteneuer | Active | [www.checklyhq.com](https://www.checklyhq.com) | Q2 2021 | 5 | Direct | Europe | Agent Infrastructure |
+| Chromatic | Zoltan Olah, Dominic Nguyen, Tom Coleman | Active | [www.chromatic.com](https://www.chromatic.com) | Q1 2019 | 3 | Direct | USA | Software Factory |
+| Clerk | Colin Sidoti, Braden Sidoti | Active | [clerk.com](https://clerk.com) | Q4 2022 | 10 | Direct | USA | Agent Infrastructure |
+| Clutch | Matthew Hager, Bruno Mota | Active | [clutch.io](https://clutch.io) | Q4 2021 | 4 | Direct | USA | Intelligent Applications |
+| CommerceLayer | Filippo Conforti, Massimo Scardellato | Active | [commercelayer.io](https://commercelayer.io) | Q2 2020 | 4 | Direct | Europe | Agent Infrastructure |
+| Coqui | Kelly Davis, Josh Meyer, Eren Golge, Reuben Morais | Shutdown | - | Q4 2021 | 4 | Direct | Europe | Intelligent Applications |
+| Deepsky (fka Gradient, fka Preemo) | Chris Chang, Mark Huang, Forrest Moret | Acquired by Airtable | [www.deepsky.ai](https://www.deepsky.ai) | Q4 2022 | 4 | Direct | USA | Agent Infrastructure |
+| Dome Systems | David McJannet, Marc Holmes | Active | [www.domesystems.ai](https://www.domesystems.ai) | Q1 2026 | 2 | Direct | USA | Agent Infrastructure |
+| env zero (merged with CloudQuery) | Yevgeny Pats, Ron Eliahu | Merger - CloudQuery | [www.env0.com](https://www.env0.com) | Q1 2021 | 2 | Direct | Israel | Devops & Monitoring |
+| Fig (aka Hercules Lab) | Brendan Falk, Matt Schrage | Acquired by Amazon | - | Q2 2022 | 5 | Scout | USA | Devops & Monitoring |
+| Finesse | Ramin Ahmari, Alice Hau | Active | [www.finesse.us](https://www.finesse.us) | Q4 2019 | 2 | Direct | USA | Intelligent Applications |
+| Fylamynt (fka NeurOps) | Pradeep Padala, Xiaoyun Zhu | Acquired by NetApp | [www.spot.io](https://www.spot.io) | Q1 2019 | 2 | Direct | USA | Devops & Monitoring |
+| Gatsby | Kyle Mathews, Sam Bhagwat | Acquired by Netlify | [www.gatsbyjs.com](https://www.gatsbyjs.com) | Q1 2019 | 2 | Direct | USA | UX & Presentation |
+| Haiku | Zack Brown | Shutdown | - | Q4 2017 | 2 | Scout | USA | UX & Presentation |
+| Heal (aka Myia) | Vladimir de Turckheim, Malo Marrec | Active | [www.heal.dev](https://www.heal.dev) | Q3 2023 | 5 | Direct | Europe | Agent Infrastructure |
+| Imperative | Roman Ginis | Active | [www.imperativex.com](https://www.imperativex.com) | Q1 2019 | 5 | Direct | USA | Intelligent Applications |
+| Infracost | Hassan Khajeh-Hosseini, Ali Khajeh-Hosseini, Alistair Scott | Active | [www.infracost.io](https://www.infracost.io) | Q2 2022 | 5 | Direct | Europe | Devops & Monitoring |
+| Isovalent (fka Covalent) | Thomas Graf, Dan Wendlandt | Acquired by Cisco | [isovalent.com](https://isovalent.com) | Q4 2018 | 2 | Direct | USA | Network & Security |
+| Jina (aka Conic AI) | Han Xiao, Bing He, Nan Wang | Acquired by Elastic | [jina.ai](https://jina.ai) | Q2 2021 | 10 | Direct | Europe | Agent Infrastructure |
+| Keystone | Greg Richards, Ross Sullivan | Active | [www.keystone.ai](https://www.keystone.ai) | Q2 2026 | 15 | Direct | USA | Intelligent Applications |
+| LakeSail | Shehab Amin, Heran Lin | Active | [www.lakesail.com](https://www.lakesail.com) | Q2 2025 | 3 | Scout | USA | Agent Infrastructure |
+| LaserData (stealth) | Kranti Parisa, Piotr Gankiewicz | Active | [www.laserdata.com](https://www.laserdata.com) | Q3 2025 | 4 | Direct | USA | Agent Infrastructure |
+| Legion (fka Yurts AI) | Ben Van Roo, Jason Schnitzer, Guru Raghavan | Active | [www.yurts.ai](https://www.yurts.ai) | Q3 2022 | 3 | Scout | USA | Intelligent Applications |
+| MeiliSearch | Quentin de Quelen, Thomas Payet, Clément Renault | Active | [www.meilisearch.com](https://www.meilisearch.com) | Q4 2020 | 5 | Direct | Europe | Agent Infrastructure |
+| Moderne | Jonathan Schneider, Olga Kundzich | Active | [moderne.io](https://moderne.io) | Q3 2020 | 2 | Scout | USA | Agent Infrastructure |
+| Modulz | Colm Tuite, Stephen Haney | Acquired by WorkOS | [modulz.app](https://modulz.app) | Q4 2020 | 3 | Direct | Europe | UX & Presentation |
+| Modus (aka People OS) | Lin Ling, Chris McCaw | Active | [www.himodus.com](https://www.himodus.com) | Q4 2024 | 2 | Scout | USA | Intelligent Applications |
+| Neovi | Amit Haller | Active | [www.neovi.co](https://www.neovi.co) | Q2 2025 | 7 | Scout | USA | Intelligent Applications |
+| Netbox | Kris Beevers, Jeremy Stretch, Mark Coleman, Salil Jani | Active | [netboxlabs.com](https://netboxlabs.com) | Q4 2022 | 6 | Direct | USA | Network & Security |
+| Netlify | Mathias Biilmann Christensen, Christian Bach | Active | [www.netlify.com](https://www.netlify.com) | Q3 2018 | 6 | Direct | USA | Agent Infrastructure |
+| Netography | Barrett Lyon, Dan Murphy | Acquired by Vectra AI | [www.vectra.ai](https://www.vectra.ai) | Q1 2019 | 4 | Direct | USA | Network & Security |
+| NetworkNext | Glenn Fiedler | Active | [www.networknext.com](https://www.networknext.com) | Q4 2019 | 2 | Direct | USA | Network & Security |
+| Novu (aka NotiFire) | Tomer Barnea, Dima Grossman | Active | [www.novu.co](https://www.novu.co) | Q3 2022 | 5 | Direct | Israel | Agent Infrastructure |
+| NS1 | Kris Beevers, Alex Vayl, Jonathan Sullivan | Acquired by IBM | [ns1.com](https://ns1.com) | Q1 2019 | 8 | Direct | USA | Network & Security |
+| Odigos (fka Keyval) | Eden Federman, Ari Recht | Active | [odigos.io](https://odigos.io) | Q2 2023 | 3 | Direct | Israel | Devops & Monitoring |
+| Orbital (fka Speedroad) | Lukasz Kosewski, Owen Emry | Shutdown | - | Q3 2022 | 5 | Direct | USA | Intelligent Applications |
+| Outsmartly | Shalom Volchok | Active | [www.outsmartly.com](https://www.outsmartly.com) | Q1 2020 | 1 | Direct | Europe | Agent Infrastructure |
+| Perfloop (aka Commonplane) | Tomas Senart | Active | [www.perfloop.ai](https://www.perfloop.ai) | Q2 2026 | 1 | Scout | USA | Devops & Monitoring |
+| Plasiv | Kishan Chalumuri | Active | [www.plasiv.com](https://www.plasiv.com) | Q2 2026 | 4 | Scout | USA | Intelligent Applications |
+| Prisma (fka GraphCool) | Soren Bramer Schmidt, Johannes Schickling | Active | [www.prisma.io](https://www.prisma.io) | Q1 2019 | 5 | Direct | Europe | Agent Infrastructure |
+| Proclaim (fka FreshHealth & AlpineOral) | Mike Hanuschik | Active | [proclaimhealth.com](https://proclaimhealth.com) | Q4 2018 | 1 | Direct | USA | Intelligent Applications |
+| ProjectDiscovery | Rishiraj Sharma, Sandeep Singh | Active | [projectdiscovery.io](https://projectdiscovery.io) | Q2 2022 | 6 | Direct | India | Network & Security |
+| QPoint | Tyler Flint, Mark Parson, Kevin Romani | Active | [www.qpoint.io](https://www.qpoint.io) | Q1 2023 | 3 | Direct | USA | Network & Security |
+| Rasa | Alex Weidauer, Alan Nichol | Active | [rasa.com](https://rasa.com) | Q2 2019 | 7 | Scout | Europe | Agent Infrastructure |
+| Serro AI | Jake (Joo Young) Kim | Active | [serro.ai](https://serro.ai) | Q1 2026 | 3 | Scout | USA | Software Factory |
+| Spacial | Maor Greenberg, Ami Avrahami, Jay Klein | Active | [www.spacial.io](https://www.spacial.io) | Q2 2025 | 5 | Scout | USA | Intelligent Applications |
+| Stealthium | Ahmed Shosha | Active | [www.stealthium.com](https://www.stealthium.com) | Q2 2025 | 2 | Scout | Europe | Network & Security |
+| Surf Security | Moty Jacob, Ziv Yankowitz | Active | [surf.security](https://surf.security) | Q4 2021 | 2 | Direct | Israel | Network & Security |
+| Sym | Yasyf Mohamedali, Jon Bass, Adam Buggia | Shutdown | - | Q2 2020 | 3 | Scout | USA | Devops & Monitoring |
+| Tarsal | Sunny Rekhi, Manny Gundampalli, Barrett Lyon | Acquired by Monad | [www.monad.com](https://www.monad.com) | Q1 2023 | 2 | Direct | USA | Network & Security |
+| Tesorio | Carlos Vega, Fabio Fleitas | Active | [www.tesorio.com](https://www.tesorio.com) | Q1 2019 | 6 | Direct | USA | Intelligent Applications |
+| TinyFish | Shuhao Zhang, Keith Zhai | Active | [www.tinyfish.ai](https://www.tinyfish.ai) | Q2 2023 | 2 | Direct | USA | Agent Infrastructure |
+| TrueCX (stealth, fka Wize Camel) | Lonnie Johnston | Active | [www.truecx.com](https://www.truecx.com) | Q3 2025 | 4 | Direct | USA | Intelligent Applications |
+| Turso (fka ChiselStrike) | Glauber Costa, Pekka Enberg, Dejan Mircevski | Active | [www.turso.tech](https://www.turso.tech) | Q3 2021 | 3 | Direct | USA | Agent Infrastructure |
+| Unikraft | Felipe Huici, Alex Jung, Simon Kuenzer | Active | [unikraft.com](https://unikraft.com) | Q3 2022 | 5 | Scout | Europe | Agent Infrastructure |
+| UnstructuredAI | Brian Raymond | Active | [unstructured.io](https://unstructured.io) | Q3 2022 | 3 | Scout | USA | Agent Infrastructure |
+| Upstash (fka LambdaStore) | Enes Akar, Mehmet Dogan | Active | [upstash.com](https://upstash.com) | Q4 2020 | 3 | Direct | USA | Agent Infrastructure |
+| Verica | Casey Rosenthal, Aaron Rinehart | Shutdown | - | Q1 2019 | 3 | Direct | USA | Devops & Monitoring |
+| VideoDB (aka Spext Labs) | Anup Gosavi, Ashutosh Trivedi | Active | [www.videodb.io](https://www.videodb.io) | Q2 2024 | 4 | Direct | India | Agent Infrastructure |
+| Weav.ai | Peeyush Rai | Active | [www.weav.ai](https://www.weav.ai) | Q3 2024 | 7 | Direct | USA | Intelligent Applications |
+| Xerpa (stealth) | Skyler Taylor | Active | - | Q3 2025 | 3 | Direct | USA | Intelligent Applications |
+| Zymtrace | Israel Ogbole, Joel Höner | Active | [www.zymtrace.com](https://www.zymtrace.com) | Q4 2024 | 3 | Scout | Europe | Agent Infrastructure |
+
+## Portfolio Summary Metrics
+
+- **Counts by fund (positions per fund admin reports):** Mango 2018 = 25, Mango 2020 = 20, Mango 2022 = 22, Mango 2025 = 5 (as of Q2 2026), Mango Opportunity 2022 (follow-on vehicle) = 11; target 15-20 per fund. Counts are fund positions and may exceed unique company count due to cross-fund follow-ons.
+- **Total of 70 portfolio companies: initial investments in Q1 2018, so 8.5 years
+- **Pace of investing: 34 quarters have elapsed as of Q2 2026 = consistent average of ~2 investments per quarter
+- **Team size - Mango Capital invests right at inception. The average team at investment is 4.1 people and the median is between 3 and 4. The distribution is tight and left-skewed: a quarter of deals (17) were made at just 1–2 employees, a clear majority (38, or 56%) at 3–5, another 18% at 6–10, and only one company (Keystone, at 15) above ten. In practice that means roughly 80% of checks went into teams of five or fewer - this is a pre-product, founding-team strategy, not a growth-stage one, and it matches the firm's stated "close to inception" thesis almost exactly.
+- **Location - US-anchored with a real European arm. The portfolio is 68% USA (47 companies), with Europe a substantial second at 16 (23%), then Israel (4, 6%) and India (2, 3%). So a third of the portfolio started outside the US - more international than a typical US seed fund.
+- **Theme / Sector - investments concentrate at the infrastructure layer: Agent Infrastructure leads at 25 (36%), Network & Security at 12 (17%) and Devops & Monitoring at 9 (13%). On the applications side, Intelligent Applications at 18 (26%), with Software Factory at 2 (3%) and UX & Presentation at 3 (4%). This mix follows the strategy of investing in cyclical technology cycles, where there is usually more activity initially at the infrastructure layers, followed by growth of investments in the application categories.
+
+## Notes
+
+- **Founders & websites** are from mangocap.com
+- **Status labels reflect exits and outcomes published on the firm website. 
+- **env zero** is the surviving entity of the env0 / CloudQuery merger (status: Merger - CloudQuery).
+- **Previous investments are listed separately in Section 4.
+- **Recently added from fund admin records:** Arclight AI (Mango 2020, realized) and Chainloop (Mango 2025) added from the administrator's records; Chainloop attributes still pending. Note: the Carta entities Conic AI = Jina, People OS = Modus, and Commonplane = Perfloop are already listed under their brand names.
+
+--
+
+## 3.1 Portfolio - Interconnected Relationships 
+
+One of the more deliberate parts of Mango Capital's portfolio support model is actively brokering relationships between companies whose technology stacks are adjacent or complementary. This has produced commercial relationships, product integrations, and technical partnerships that neither company would have found as quickly on their own. The firm maintains an informal map of the portfolio's technology surface area - what each company builds, what each company buys, and where the seams are - and revisits it as the portfolio evolves and new investments come in.
+
+> Relationships between portfolio companies that have been actively initiated and cultivated by Mango Capital 
+
+| Company | Mango Capital Portfolio Companies that are Customers or Partners or In Progress |
+|---|---|
+| Alguna | Axiom, TinyFish |
+| Axiom | Netlify, Perfloop, Stealthium |
+| Chainloop | Moderne |
+| Heal | TinyFish |
+| Infracost | Hashicorp |
+| LakeSail | Turso. Laserdata |
+| Laserdata | Turso, LakeSail, Unikraft |
+| Moderne | Chainloop, Perfloop, Serro, Upstash |
+| Neovi | Spacial |
+| Netlify | Axiom, Unikraft |
+| Perfloop | Axiom, Moderne |
+| Plasiv | VideoDB |
+| Prisma | Unikraft |
+| Rasa | TrueCX |
+| Serro | Moderne |
+| Spacial | Neovi |
+| SpecStory | Moderne |
+| Stealthium | Axiom |
+| Surf Security | TinyFish |
+| TinyFish | Alguna, Heal, Surf Security, Unikraft |
+| TrueCX | Rasa |
+| Turso | Laserdata, Unikraft |
+| Unikraft | Axiom, Netlify, Prisma, Turso |
+| Unstructured | VideoDB |
+| Upstash | Moderne |
+| VideoDB | Plasiv, Unstructured |
+
+These Mango Capital portfolio companies form a tightly interwoven enterprise stack, where many of them are each other's customers, partners, or active integration prospects. The relationships span the full infrastructure-to-application spectrum: deployment and runtime (Netlify, Unikraft), databases and data (Turso, LakeSail, Laserdata, Upstash, Unstructured, VideoDB, Prisma), developer and code tooling (Moderne, SpecStory, Chainloop, Infracost, HashiCorp), observability (Axiom), automation and AI agents (TinyFish, Rasa, Heal), security (Surf Security, Stealthium), and monetization and operations (Alguna). Because each company occupies a distinct category, the integrations tend to be complementary rather than competitive - a database pairing with a runtime, an observability layer instrumenting a deployment platform, a billing engine plugging into an agent product.
+
+Crucially, these connections are not accidental. Mango Capital has actively facilitated and helped drive these relationships across the portfolio - making warm introductions, surfacing where one company's product fills a gap in another's stack, and steering complementary teams toward customer and partnership deals. That hands-on matchmaking is why a few companies have become connective hubs: Axiom (observability) shows up across Netlify, Unikraft, Perfloop, Stealthium, and Alguna; Moderne (automated code refactoring) anchors a cluster with Chainloop, Perfloop, Serro, SpecStory, and Upstash; and TinyFish, Turso, and Unikraft each link several others. The result is a portfolio that behaves less like a list of isolated startups and more like a deliberately cultivated ecosystem, where Mango Capital's involvement helps one company's adoption pull adjacent portfolio products along with it.
+
+--
+
+## 3.2 Portfolio - Role as Partner / Mentor and not Board Member 
+
+Mango Capital's post-investment model is built around a deliberate choice: rather than taking a formal board seat - which tends to shift the dynamic toward governance, fiduciary process, and meeting cadence - the firm invests in something harder to replicate: a direct, personal relationship with the founder or CEO that operates outside the structure of a boardroom.
+
+Formal board roles consume a disproportionate share of an investor's time on administration - prep, minutes, voting, managing the room - but often founders need something different. What they need is a trusted person who has seen the movie before, will tell them the truth, and is available when it matters, not just on a quarterly schedule. Mango Capital is built to provide that feedback. The relationship is frank by design: direct feedback on product positioning, pricing architecture, go-to-market sequencing, hiring decisions, and fundraising strategy - the questions that determine outcomes. Most of the venture community has become so "founder friendly" and are overwhelmed with firm, board and marketing responsibilities that they are more considered about managing the optics of the situation.
+
+This Partner not Board Member model works because the firm brings genuine product and market depth in enterprise software, not just capital. The conversations are peer-level - founder to former operator - and they tend to happen at the inflection points that matter: when a product roadmap needs a hard reset, when a sales motion isn't translating, when a fundraise narrative needs to be rebuilt from scratch. Over time, many of these relationships extend well beyond a single company; founders who have worked with Mango Capital through one cycle come back as Mango Scouts, co-investors, or advisors in the next one.
+
+----
+
+## 4. Deal Sourcing and the Mango Scout Network
+
+Deal flow at Mango Capital is a combination of proactive research in particular technology areas as well as relationship-driven and founder-referred, consistent with the firm's strategy to invest at or near inception. Sourcing is weighted toward direct outreach and strong introductions from trusted networks built over decades in enterprise software - portfolio founders, executives and co-investors who have worked with the firm across multiple cycles.
+
+The Mango Capital Scout Network extends the firm's reach into specific enterprise sectors and geographies where breakout companies form early: first time product technical founders, angels who invest alongside founders, domain experts at the frontier of a specific technology category, and academics whose research is beginning to find commercial application. Mango Scouts are selected for depth of judgment in a specific area, not breadth - the goal is genuine signal from people who see a sector or company very early and before it becomes consensus. Mango Scouts operate with lightweight coordination: they surface companies, provide early context, and make introductions. 
+
+The combined effect is a sourcing motion that is both systematic and trust-based - broad enough to see a wide range of activity across enterprise software, infrastructure, and applied AI, but anchored in relationships where context and candor travel with the deal.
+
+Inbound interest is welcomed but filtered tightly. The firm does not rely on platform-based deal sourcing or participate in competitive spray processes. 
+
+--
+
+## 4.1 Mango Scout Network
+
+The Mango Scout network is composed of founders, industry executives, and technical leaders - many of whom are portfolio CEOs, CTOs or alumni - who source and refer founders to the firm. 
+
+- **Scout Compensation:** Mango Scouts are entitled to deal specific carry economics per the Mango Scout agreement - escalate any scout-related deal-economics question to the CFO
+
+> The list below is private and shared for sourcing context. 
+
+| Scout | Company / Role | 
+|---|---|---|---|
+| Mitchell Hashimoto | HashiCorp / Founder  | 
+| Armon Dadgar | HashiCorp / Founder  | 
+| Dave McJannet | HashiCorp and Dome Systems / CEO  | 
+| Marc Holmes | HashiCorp and Dome Systems / CMO  | 
+| Paul Dix | InfluxData / Founder CTO  | 
+| Evan Kaplan | InfluxData / CEO  | 
+| Assaf Resnick | BigPanda / CEO  | 
+| John Newton | Alfresco / CTO  | 
+| Gerhard Eschelbeck | Webroot / CTO  | 
+| Mikael Berner | Edison / CEO  | 
+| Chris Lyon | Twilio / SVP Engineering  | 
+| Mathias Biilmann | Netlify / CEO  | 
+| Chris Bach | Netlify / Founder  | 
+| Thomas Dullien | Optimyze / CEO  | 
+| Neil Patel | Axiom / CEO  | 
+| Seif Lofty | Axiom / CTO  | 
+| Jonathan Schneider | Moderne / CEO  | 
+| Shuhao Zhang | TinyFish / Founder CTO  | 
+| Aleks Dekic | Alguna / CEO  | 
+| Zoltan Olah | Chromatic / CEO  | 
+| Brian Raymond | Unstructured / CEO  | 
+| Ben Van Roo | Legion / CEO  | 
+| Kranti Parisa | Laserdata / CEO  | 
+| Jake Kim | Serro / CEO  | 
+
+*[TBD]:** this is just an initial list of Mango Scouts, more to add here
+
+--
+
+## 4.2 Technology-First Investing: Identifying Emerging Primitives Early
+
+A distinct part of Mango Capital's investment process is the identification of foundational technologies - low-level primitives or architectural shifts - before they have become legible to the broader market, and then proactively targeting companies that are building on top of them across multiple enterprise categories. The thesis is that a genuinely new technology primitive doesn't produce one company; it potentially produces several companies, each applying it to a different sector within the enterprise stack. 
+
+The approach is deliberate: the firm tracks emerging open-source projects, kernel-level infrastructure changes, and shifts in how enterprise systems are instrumented or secured - looking for the moments when a technical capability crosses the threshold from experimental to deployable at scale. When that signal arrives, the firm moves from observation to active sourcing, mapping which enterprise problems the technology is best suited to solve and which founder communities are already working in the space.
+
+One clear example is eBPF (extended Berkeley packet filter) - a Linux kernel technology that allows safe, high-performance programs to run in the kernel without modifying kernel source. Mango Capital identified this as a breakthrough foundational technology in 2016, years before it entered mainstream enterprise awareness. That early conviction led to an investment in Isovalent, the company that built Cilium, the leading eBPF-based networking and security platform for Kubernetes, which was subsequently acquired by Cisco. Recognizing that eBPF would enable a new generation of tools across multiple enterprise domains, the firm continued to invest in companies applying the same primitive to adjacent problems: Odigos, which uses eBPF for zero-code application performance monitoring and distributed tracing, and QPoint, which applies it to agent-level network security. One underlying technology, three distinct enterprise markets - each investment reinforcing the firm's understanding of the others.
+
+----
+
+## 5. Fund Metrics
+
+** This template provides standard LP-grade fields. Source of truth is the latest quarterly report produced by the fund administrator and reviewed by Kristina Dayback. Per-fund multiples and IRRs in 5.1-5.5 are **net of management fees and carried interest (LP-only), as of 3/31/2026**, per the administrator's LP fund performance reports. Per-company exit/markup multiples are gross, deal-level.
+
+### 5.1 Mango Capital 2018 (Fund I)
+
+| Metric | Value |
+|---|---|
+| Vintage | 2018 |
+| Fund size (committed capital) | $40M|
+| # of LPs at close | 49 |
+| # of portfolio companies | 25 |
+| Capital called (% of commitments) | 100% |
+| Capital invested | ~$41.8M |
+| Reserves remaining | N/A |
+| Realized proceeds (DPI) | .65x |
+| Unrealized value (RVPI) | .97x |
+| Total value (TVPI) | 1.62x |
+| Top markups | NetBox Labs 2.80x, Axiom 3.49x, Prisma 3.88x|
+| Realized exits | Center 6.76x, Isovalent 7.05x, Fylamynt (fka NeurOps) 2.54x, ArmorBlox 0.68 |
+| Other exits / Write-offs / Shutdowns | Armory (acquired by Harness), Haiku, Verica (fka Ambit), SymOps |
+
+### 5.2 Mango Capital 2020 (Fund II)
+
+| Metric | Value |
+|---|---|
+| Vintage | 2020 |
+| Fund size (committed capital) | $40M |
+| # of LPs at close | 34 |
+| # of portfolio companies | 20 |
+| Capital called (% of commitments) | 100% |
+| Capital invested | $35.4M |
+| Reserves remaining | ~$5M |
+| Realized proceeds (DPI) | 0x |
+| Unrealized value (RVPI) | 1.57x |
+| Total value (TVPI) |1.57x |
+| Top markups | Legion (fka Yurts) 5.83x, Unstructured 4.79x, Moderne 4.17x |
+| Realized exits | Conic AI 1.0x, Modulz 1.0x, Arclight .94x, Hercules Labs .70x |
+| Other exits / Write-offs / Shutdowns | Coqui, Speedroad Limited (aka Orbital) |
+
+### 5.3 Mango Capital 2022 (Fund III)
+
+| Metric | Value |
+|---|---|
+| Vintage | 2022 |
+| Fund size (committed capital) | $50M |
+| # of LPs at close | 44 |
+| # of portfolio companies | 22 |
+| Capital called (% of commitments) | 95% |
+| Capital invested | $42.4M* |
+| Reserves remaining | ~$8M |
+| Realized proceeds (DPI) | 0x |
+| Unrealized value (RVPI) | 1.08x |
+| Total value (TVPI) | 1.08x |
+| Net IRR | 4.2% |
+| Top markups | Tiny Fish 4.27x, Clerk 1.93x, Odigos (aka Keyval) 1.63x, zystem 1.43x |
+| Realized exits | Deepsky (aka Preemo) 1.07x |
+| Other exits / Write-offs / Shutdowns | Tarsal (acquired by Monad) |
+
+*Capital invested includes Q2 2026 follow-on investments not yet reflected in the 3/31/2026 Carta export (export deal cost $41.7M).*
+
+### 5.4 Mango Capital 2025 (Fund IV)
+
+| Metric | Value |
+|---|---|
+| Vintage | 2025 |
+| Fund size (committed capital) | ~$20M |
+| # of LPs at first close | 27 |
+| # of portfolio companies | 5 |
+| Capital called (% of commitments) | 0% |
+| Capital invested | $7.1M |
+| Top markups | N/A |
+| Realized exits | N/A |
+| Other exits / Write-offs / Shutdowns | N/A |
+
+
+### 5.5 Mango Capital Opportunity 2022 (Follow on vehicle)
+
+| Metric | Value |
+|---|---|
+| Vintage | 2022 |
+| Fund size (committed capital) | $24.4M |
+| # of LPs at close | 28 |
+| # of portfolio companies | 11 |
+| Capital called (% of commitments) | 100% |
+| Capital invested | $23.6M |
+| Reserves remaining | ~$1M |
+| Realized proceeds (DPI) | 0.15x |
+| Unrealized value (RVPI) | 0.91x |
+| Total value (TVPI) | 1.06x |
+| Net IRR | 2.1% |
+| Top markups | TinyFish, Unstructured, Axiom |
+| Realized exits | Isovalent 2.18x |
+| Other exits / Write-offs / Shutdowns | N/A |
+
+### 5.6 Aggregate firm performance (across all funds)
+
+| Metric | Value |
+|---|---|
+| Total AUM | ~$170M |
+| Total capital deployed | ~$150M |
+| Total realized proceeds (gross) | ~$47M |
+| Total realized + unrealized value (gross) | ~$243M |
+| Gross firm IRR (deal-level) | 14.5% |
+| Blended net IRR (LP, pooled) | ~8.5% |
+| Blended net TVPI | 1.34x |
+
+----
+
+## 6. Pre-2018 Track Record (Mayfield, 1997–2017)
+
+> Robin Vasan spent 20 years as a partner at [Mayfield Fund](https://www.mayfield.com/), where he generated **over $1.5B in distributions** on roughly **$224M of invested capital**, with an additional ~$150M of unrealized value remaining to be returned at the time he departed.
+
+# All investments led by Robin Vasan while at Mayfield - 1997–2017
+
+| Company | Category | Founders | Invested Since | Board | Outcome | Employees at Investment | MOIC | Co-Investors |
+|---|---|---|---|---|---|---|---|---|
+| HashiCorp | cloud deployment and security infrastructure - open source | Mitchell Hashimoto, Armon Dadgar | Q4 2014 | Yes | IPO (NASDAQ: HCP) | 4 | 65.35x | Notable Capital, Redpoint Ventures, Bessemer Venture Partners, IVP |
+| Couchbase | enterprise database - open source | Steve Yen, James Phillips, Chris Anderson, Damien Katz | Q1 2010 | Yes | IPO (NASDAQ: BASE) | 5 | 3.85x | Accel, North Bridge Ventures Partners, Ignition Partners, Adams Street Partners, Sorenson Capital |
+| Marketo | enterprise marketing automation | Phil Fernandez, Jon Miller, David Morandi | Q2 2010 | Yes | IPO (NASDAQ: MKTO); now part of Adobe | 10 | 10.47x | InterWest Partners, Storm Ventures, Battery Ventures, IVP |
+| webMethods | enterprise application integration | Phillip Merrick, Charles Allen, Stewart Allen | Q4 1997 | Yes | IPO (NASDAQ: WEBM); now part of Software AG | 3 | 47.97x | FBR Technology Venture Partners, Goldman Sachs, Dell Ventures |
+| BigPanda | AI IT operations platform | Assaf Resnick, Elik Eizenberg | Q4 2014 | Yes | Private | 4 | 6.75x | Sequoia Capital, Battery Ventures, Greenfield Partners, Pelion Venture Partners, Insight Partners, Advent International |
+| InfluxData | time-series database - open source | Paul Dix, Todd Persen | Q4 2014 | Yes | Private | 2 | 4.74x | Trinity Ventures, Battery Ventures, Sapphire Ventures, Norwest Venture Partners, Sorenson Capital |
+| Akimbi | virtual machine test infrastructure | James Phillips, Xun Wilson Huang | Q4 2005 | Yes | Acquired - VMware | 4 | 3.06x | Hummer Winblad Venture Partners, Partech International |
+| Alfresco | enterprise document management - open source | John Newton, John Powell | Q1 2006 | Yes | Acquired - Hyland | 6 | 3.10x | Accel, Sapphire Ventures, Sageview Capital |
+| Centrify | privileged access management | Tom Kemp, Adam Au | Q3 2004 | Yes | Acquired - Thoma Bravo | 2 | 4.75x | Accel, Sigma Partners, Index Ventures, Invesco Private Capital |
+| Riverbed | mobile application development | Wayne Jackson, Dave Rensin | Q2 1999 | Yes | Acquired - Aether | 8 | 5.23x | Columbia Capital |
+| Edison | email intelligence and data analytics | Mikael Berner, Hetal Pandya | Q4 2012 | Yes | Acquired - Yipit | 2 | 3.21x | US Venture Partners, Nautilus Venture Partners |
+| Trigo | product catalog data management | Byron Deeter, Venky Ganesan, Reza Mohsin | Q3 2001 | Yes | Acquired - IBM | 5 | 3.42x | Globespan Capital Partners, Bessemer Venture Partners, Symphony Technology Group |
+| Webroot | endpoint anti-spyware security | Steven Thomas | Q1 2005 | Yes | Acquired - Carbonite | 22 | 2.01x | Accel, Technology Crossover Ventures |
+| Xplain | database and warehouse analytics | Anumpan Singh, Rituparna Agarwal | Q4 2013 | Yes | Acquired - Cloudera | 2 | 2.50x | |
+| CloudPhysics | virtual machine capacity and cost analysis | John Blumenthal, Irfan Ahmed | Q4 2011 | Yes | Acquired - HPE | 4 | 0.00x | Kleiner Perkins, Icon Ventures |
+| Archive | enterprise cloud storage and backup | Jim McDermott, Ari Engelberg, Jeff Green | Q2 1999 | Yes | Acquired - Cyclone Commerce | 4 | 0.00x | Verisign, Oracle, EMC Ventures, Innocal Venture Capital, Rare Ventures |
+| Clareon | digital payments infrastructure | Paul Walsh, David Stroll | Q3 1999 | Yes | Acquired - Bottomline Technologies | 3 | 0.00x | Technology Crossover Ventures, FleetBoston Financial, Berkshire Partners |
+| Slam Dunk Networks | enterprise messaging infrastructure | Bob Miller, John Mathon, TK Rengarajan | Q4 1998 | Yes | Acquired - CloudPrime | 3 | 0.00x | Cisco, American Express, Oracle, SAP, Verisign |
+| Global Logistics | enterprise transportation logistics | Mitch Weseley, JP Wiggins | Q3 1999 | Yes | Acquired - Oracle | 5 | 0.87x | FBR Technology Venture Partners, Focus Ventures, GIC Special Investments |
+| Determina | endpoint host intrusion security | Nand Mulchandani, Sandeep Johri, Vladimir Kiriansky | Q2 2003 | Yes | Acquired - VMware | 4 | 0.48x | Bessemer Venture Partners, US Venture Partners |
+| Elemental Security | enterprise security policy assessment | Dayne Meyers, Dan Farmer | Q4 2002 | Yes | Shutdown | 4 | 0.00x | Sequoia Capital, Bessemer Venture Partners, Lehman Brothers Venture Partners |
+| Informance | enterprise manufacturing intelligence | John Oskin | Q4 2005 | Yes | Acquired - Solarsoft | 3 | 0.25x | New Enterprise Associates, Cargill Ventures |
+| True Demand | supply chain demand forecasting | Eric Peters, Dr. Hau Lee, Dr. Li Chen | Q4 2004 | Yes | Acquired - Acosta | 3 | 0.00x | Bay Partners, Presidio, CMEA Ventures, Supply Chain Ventures |
+| Groundwork Open Source | enterprise IT monitoring - open source | Bob Fanini, David Lilly | Q1 2004 | Yes | Acquired - Fox Technologies | 4 | 0.00x | Canaan Partners, Icon Ventures, Sapphire Ventures |
+| Kickfire | datawarehouse compute appliance | Raj Cherabuddi, Joseph Chamdani | Q3 2006 | Yes | Acquired - Teradata | 4 | 0.00x | Accel, Greylock Partners, Pinnacle Ventures, 3i Group |
+
+>Specific investment costs and exit values have been omitted since that is confidential information, however the gross multiple on invested cost is included 
+
+### Investment Totals - Mayfield deals by Robin Vasan (1997-2017)
+
+For LP and reference purposes, the canonical Mayfield-era track record includes:
+
+- Total number of investments led = 25
+- Total invested capital = $223.9M
+- Total realized and distributed = $1,500.1M
+- Total unrealized value (only BigPanda and InfluxData) = $148.6M
+- Total realized and distributed to invested capital = 6.70x
+- Total unrealized value to invested capital = 0.66x
+- Total value (realized + unrealized) to invested capital = 7.37x
+
+## Mayfield Portfolio - Stage, Sectors, and Outcomes (1997–2017)
+
+These 25 investments were made at seed or early stage, typically when teams were between 2 and 8 people, and span the full arc of the enterprise software era - from the infrastructure buildout of the late 1990s internet boom through the open-source and cloud-native wave of the 2010s.
+
+The sectors reflect how enterprise software's center of gravity shifted over two decades. The earliest investments - webMethods, Archive, Slam Dunk Networks, Clareon, Global Logistics - were made during the B2B internet era, when companies were racing to wire together supply chains, payments, and enterprise messaging over the web for the first time. After the dot-com correction, the portfolio pivoted toward more durable infrastructure bets: endpoint security (Webroot, Determina, Elemental Security, Centrify), IT monitoring (Groundwork Open Source), and data management (Trigo, Kickfire, Xplain). The late 2000s and 2010s brought a new wave centered on open-source enterprise software - Couchbase, Alfresco, InfluxData, and HashiCorp among them - as well as cloud operations (CloudPhysics, BigPanda), SaaS marketing automation (Marketo), and the time-series and analytics databases that underpinned the cloud-native stack.
+
+Across the whole portfolio, three themes recur: developer as a go-to-market motion (six of the twenty-five companies built on open source explicitly), infrastructure software for enterprises in transition, and category creation ahead of mainstream awareness - DevOps, privileged access, and AI-driven IT operations before those categories had names.
+
+Every investment came with a board seat, often as lead director role in each company. That consistent presence - at the table for every major decision from early product to financing to exit - is part of what shaped outcomes rather than just observed them.
+
+The co-investor roster across the portfolio reads as a who's who of enterprise venture: Sequoia Capital, Kleiner Perkins, Accel, Bessemer Venture Partners, Greylock Partners, Battery Ventures, IVP, and Insight Partners appear repeatedly. These are firms that apply their own rigorous underwriting before joining a round, and their consistent willingness to co-invest reflects both deal quality and the trust built over years of working together. In several cases - HashiCorp, BigPanda, Couchbase - the syndicates attracted multiple top-decile firms, which itself signals how each company was regarded by the broader market at the time of investment.
+
+The quality of outcomes is reflected not just in returns but in who bought these companies. Strategic acquirers include VMware (Akimbi, Determina), IBM (Trigo), HPE (CloudPhysics), Oracle (Global Logistics), Teradata (Kickfire), Cloudera (Xplain), and Adobe (Marketo). Centrify was taken private by Thoma Bravo, one of the most selective enterprise software PE firms. These are not opportunistic acqui-hires; they are purchases by the dominant platforms of their respective eras, validating the underlying technology. The four IPOs - webMethods, Marketo, Couchbase, and HashiCorp - further anchor the portfolio's positioning at the frontier of enterprise infrastructure over a span of twenty years.
+
+----
+
+## 7. Articles and Writing by Robin Vasan
+
+> Full list to be maintained from Robin's [LinkedIn profile](https://www.linkedin.com/in/robinvasan/). Below is the canonical list - please add new pieces as they're published. Add publication date, venue (LinkedIn / external), and 1-line summary.
+
+| Date | Title | Venue | Summary |
+|---|---|---|---|
+| 2019-03-11 | Cultivating Mango Seeds | [LinkedIn Pulse](https://www.linkedin.com/pulse/cultivating-mango-seeds-robin-vasan) | Why Robin left Mayfield to start Mango Capital as a solo-GP seed fund for technical founders; investment themes (Network & Security, Data Management & Analysis, DevOps & Monitoring, Serverless Presentation Layer, Intelligent Applications). |
+| 2019-10-9 | Reinventing the Web for the Cloud | [LinkedIn Pulse](https://www.linkedin.com/pulse/reinventing-web-cloud-robin-vasan) | Transitioning from internet/web era architecture to a new architecture built native for the cloud. |
+| 2025 | Mango Capital bets on AI software startups | [LinkedIn post](https://www.linkedin.com/posts/robinvasan_agentic-activity-7322699169238831105--lHA) | On agentic / AI infrastructure as the firm's current investment thesis. |
+| 2026-03-20 | Software Factories: The Impending Code Explosion Demands a New Software Paradigm | [LinkedIn Pulse](https://www.linkedin.com/pulse/software-factories-impending-code-explosion-demands-new-robin-vasan-6ua9c) | Code generation is the beginning of a massive shift in the software development lifecycle. |
+| 2026-04-07 | Software Factories: Production at Exabyte Scale | [LinkedIn Pulse](https://www.linkedin.com/pulse/software-factories-production-exabyte-scale-robin-vasan-6uh3c) | Source code control and context engineering are adjacent categories that are open to disruption. |
+| `[date]` | `[title]` | `[link]` | `[summary - TBD]` |
+| `[date]` | `[title]` | `[link]` | `[summary - TBD]` |
+
+*[TBD]:** Audit the LinkedIn profile and import all Pulse articles and pinned long-form posts. Tag each by theme (devops, security, data, AI infra, founder advice, fund strategy).
+
+
+----
+
+## 8. LP Relations and Reporting
+
+Mango Capital treats LP communication as a core obligation, not an afterthought. The firm produces audited annual financials and quarterly financial statements for each fund. The firm is in the process of implementing Standard Metrics to perform the regular collection and consolidation of portfolio company operating metrics. Although the detailed company data is confidential and cannot be shared directly with LPs, we can provide some summarized information. This information will enable LPs to gain a more comprehensive understanding of their portfolio’s health, going beyond just NAV and valuation updates.
+
+GP Updates for each fund are distributed periodically and written to be substantive: new investments with the thesis behind each one, portfolio developments of note, and a candid assessment of how the market environment is affecting the companies. The goal is to give LPs the information they would want if they were sitting in the GP seat, not the sanitized version that protects optionality. 
+
+In addition, the firm periodically hosts webinars - periodic sessions where a specific technology or market theme is explored in depth, often featuring portfolio founders or domain experts. These are designed to keep LPs current on the areas where Mango Capital is actively investing and to open a dialogue about where the market is moving.
+
+Beyond reporting, the firm maintains a dedicated LP CRM that tracks LP interests, sector preferences, and follow-on appetite. When a portfolio company raises a subsequent round and co-investment capacity is available, the firm uses this system to match opportunities to LPs with relevant thesis alignment and investment criteria - giving interested LPs a structured, timely path to deepen their exposure to specific companies rather than learning about rounds after the fact.
+
+----
+
+## 9. Agent Operating Notes
+
+This section is guidance for AI agents acting on behalf of Mango Capital.
+
+### Brand and voice
+
+- Mango Capital is a **solo-GP** firm. Avoid implying a partnership or investment committee.
+- Focus is enterprise pre-seed stage "conviction well before general consensus" is the positioning.
+- Tone is **founder-first, technical, low-ego**. Match how Robin writes on LinkedIn - substantive, not promotional.
+- The "mango seed" round metaphor (\~$3–5M total round size, $1–2M check from Mango Capital) is the firm's signature framing.
+
+### What agents should do
+
+- Use the portfolio in Section 3 as the source of truth for "do you invest in X-type company" - match to themes (devops, security, databases, networking, agent / AI infrastructure, intelligent applications, vertical AI).
+- For founder questions about process: pre-seed and seed only, technical founders preferred, <5-10 employees at time of investment, $1–2M initial check for ~10% ownership, with limited follow-on reserves.
+- Route LP / capital-account / K-1 questions to cfo@mangocap.com 
+- Route LP and investor relations questions to ir@mangocap.com 
+- Route press and media questions to media@mangocap.com 
+
+### What agents should NOT do
+
+- Do not share LP names, portfolio company data or unrealized portfolio marks externally. These are confidential.
+- Do not commit Mango Capital to investments, term sheets, advisory roles, speaking engagements, or referrals on Robin's behalf without explicit confirmation.
+- Do not publicly publish, edit, or attribute content to Robin without him reviewing it.
+- Do not contact founders, scouts, or LPs without authorization.
+
+---
+
+## 10. Due Diligence Q&A
+
+> **Source.** This section distills the responses from the **Mango Capital 2025 LP Due Diligence Questionnaire (April 2026)**, prepared for prospective LPs. It is intended as a quick-reference for AI agents and the team when fielding LP, founder, or partner questions. For full prose answers, exhibits, and references, consult the source DDQ in the data room. 
+
+### 10.1 Strategy & thesis
+
+**What is Mango Capital's investment strategy?**
+Artisanal, single-GP seed stage venture capital focused exclusively on enterprise software. Mango Capital invests in first-time technical and product founders at company inception (typically 5–10 employees), with initial checks of $1–2M (often via SAFE or seed round) and limited reserves, with total investments capped at $2–3M total per company. Two themes: (i) agent / AI infrastructure and (ii) intelligent enterprise applications.
+
+**Why is the market opportunity attractive now?**
+Enterprise software is in the early innings of the AI / Agent Era - the fifth major architecture shift after Mainframe, Client-Server, Web / Internet, and Cloud / Mobile. Computers can now read, write, listen, speak, and create. Every prior architecture transition produced generational enterprise winners (HashiCorp alone generated 85x MOIC for Mayfield). Funds smaller than ~$100M with deep technical sourcing networks have historically captured the disproportionate share of seed-stage upside.
+
+**What makes Mango Capital's strategy unique?**
+Solo-GP model with three decades of enterprise venture experience (20 years Mayfield + Mango Capital since 2018); the Mango Scout network of top technical operators (HashiCorp, InfluxData, Netlify, Axiom, Moderne, etc.) acting as forward-deployed investors (~29% of fund deals - 20 of 68 - sourced via Mango Scouts); targeted seed programs leveraging platform portfolio companies (TinyFish, Moderne); disciplined fund size ($40–50M every 2–3 years) preserving 5–6x fund TVPI math; lean cost base with maximum economics flowing to LPs and GP.
+
+**Who are the key competitors?**
+Two layers: (i) generalist seed/micro-VCs (First Round, Floodgate, Forerunner, Initialized, Boldstart) and (ii) early-stage practices of multi-stage platforms (a16z, Accel, Benchmark, CRV, GGV, Greylock, Sequoia). Mango Capital's differentiation: deep enterprise-only domain focus; fund-size discipline (single winner can return the fund); working-partner Scout network compounding reach without payroll. Many "competitors" are also frequent co-investors. Most successful enterprise-focused competitor: **a16z**, with industry-defining wins (Databricks, GitHub, Okta) - Mango Capital co-invests alongside them and competes for the artisanal founder-stage check the larger platforms increasingly cannot economically write.
+
+**What types of investments will Mango Capital NOT consider?**
+Consumer-only businesses; med / biotech; crypto; hardware-heavy or capital-intensive deep-tech; companies where the founder is unwilling to commit full-time; companies whose primary defensibility is regulatory arbitrage; Automatic dealbreakers: founder integrity issues, undisclosed material litigation, fabrication of customer or revenue claims.
+
+### 10.2 Portfolio construction & reserves
+
+**Stage focus and check size - consistent across all the seed funds Mango Capital 2018 / 2020 / 2022 / 2025).**
+
+| Stage | # cos. (range) | $ per co. (range) | initial ownership |
+|---|---|---|---|
+| Pre-seed and Seed | 15-20 | $2.0–3.0M | ~10% |
+
+Expected portfolio: 15–20 companies, 17–18 most likely. Initial check $0.5–2.0M (typical $1.0–1.5M). Total per company including follow-ons: $2.0–3.0M. 
+
+**Reserve policy.**
+~75–80% for initial investments, 20–25% for follow-ons. Reserves concentrate in companies meeting milestone-based gates: PMF signal, ARR/usage trajectory, customer reference quality, tier-one incoming-round lead. Mango Capital is willing to pass on pro-rata when price-to-progress deteriorates. Reviewed quarterly.
+
+**Fund Model.**
+~10% initial ownership, assume 50% dilution, so ~5% ownership at exit
+$5-6B in total exit value per fund * ~%5 ownership = $250-300M in fund value or 5-6x gross fund return
+Given the current market climate, one strong company per fund should be able to achieve $5-6B in exit value
+
+**Historical Context.**
+During his 20 year career at Mayfield, Robin generated over $20B in total exit value
+The notable large successes include:
+- HashiCorp IPO and $7B acquisition by IBM
+- Marketo IPO and $4.75B acquisition by Adobe
+- webMethods IPO and exit at $3.5B
+- Couchbase IPO and $1.5B acquisition by Haveli
+
+
+### 10.3 Deal flow & sourcing 
+
+**Where does deal flow come from?**
+
+- **Mango Scout network** (~20 of 68 fund investments, ~29%): hand-picked technical founders/operators
+- **Mango Capital seed programs / platform partnerships**: targeted seed programs anchored by portfolio companies (TinyFish Aquarium, Moderne Bauhaus).
+- **Mayfield alumni and 20-year enterprise CEO/CTO network** (John Powell/Alfresco, Tom Kemp/Centrify, Phil Fernandez/Marketo, Phillip Merrick/webMethods).
+- **Co-investors** syndicate partners: a16z, Accel, Battery, Benchmark, Bessemer, CRV, GGV, Kleiner Perkins, Lightspeed, Madrona, Menlo, Redpoint and Sequoia
+- **Open-source community sourcing** (e.g., Cilium/eBPF led to Isovalent and a 7x exit).
+- **Direct inbound** from technical founders attracted by enterprise-only positioning and accessible solo-GP model.
+
+**How long are these relationships?**
+Most Mango Scout and co-investor relationships span 10–25+ years, originating during Robin's 20-year tenure at Mayfield. Mango Scouts earn deal-specific carry (no salary expense to the Fund) and typically own coverage for a category with a standing cadence with Robin.
+
+**Sourcing edge over competitors.**
+Solo-GP decisiveness (no committee); authentic operator credibility from Mango Scout bench - "first call" position with founders coming out of HashiCorp, InfluxData, Netlify, Mayfield-era exits; willingness to write the smallest meaningful first check ($1–2M SAFE) at inception; portfolio-as-platform - Mango Capital companies preferentially partner with each other.
+
+### 10.4 Due diligence process
+
+| Stage | Duration | What happens |
+|---|---|---|
+| 1. Triage | 1–3 days | Robin + sourcing Scout review pitch, run a reference call with a customer or technical co-conspirator |
+| 2. Technical & market | 1 week | Deep dive with at least one Scout in category; founder background and reverse references; competitive landscape; architecture review |
+| 3. Commercial & customer | 1–2 weeks | Direct customer/design-partner calls; pricing and willingness-to-pay validation; ARR build, contracts, pipeline |
+| 4. Investment decision | - | Solo-GP decision after Scout input; term sheet review |
+| 5. Closing & post-close | - | KYC/AML, governance, compliance handled by CFO |
+
+**Current Investment Vehicle** Mango Capital 2025 LP (Delaware LP) invests in preferred equity, SAFEs (typically YC post-money capped). Foreign investments via U.S. parent flips or Delaware blockers. Hold period: 5–10+ years.
+
+### 10.5 Value creation & exits
+
+**Underwriting threshold.** ≥10x gross MOIC base case at seed entry, with pathways to 50–100x upside; gross IRR target ≥30%. **Fund-level target:** 5–6x fund TVPI ($5–6B portfolio value against $40–50M committed).
+
+**Exit strategy.** Mango Capital is a non-control investor and explicitly not a board member - so the firm has flexibility to exit positions in late / growth rounds or through M&A or IPO. Mango Capital's role: (i) IPO experience (HashiCorp, Couchbase, webMethods, Marketo) (ii) strategic M&A - structured optionality with potential acquirers, banker selection, process discipline (Riverbed/Aether 2000, Trigo/IBM 2004, Akimbi/VMware 2006, Alfresco/TH Lee 2018, Centrify/Thoma Bravo 2018, Webroot/Carbonite 2019, Isovalent/Cisco 2024); (iii) secondaries and continuation vehicles where appropriate.
+
+**Portfolio engagement cadence.** Monthly or bi-monthly 1:1 with founders / CEO; ad-hoc working sessions on milestones (launch, hiring, next round); on-demand availability for customer intros and syndicate help. Where a Mango Scout is engaged, they often serve as advisors and operator-mentors.
+
+**Follow-on criteria.** Achievement of agreed milestones; quality of new round lead (tier-one, Mango Capital-aligned); price-to-progress consistent with 10x+ return path from new entry; founder execution since initial investment; reserve discipline (stay within $2–3M cap); strategic value of maintaining ownership.
+
+**Value-creation case studies.**
+
+- **Isovalent (Mango Capital 2018):** Founder identified through open-source/eBPF community. Q4 2018 SAFE of $1M + follow-on $1M before Series A. Cisco acquisition Q2 2024 at 7x, ~48.5% IRR - ~0.30x DPI for Mango Capital 2018 from a single investment.
+- **Center (Mango Capital 2018):** Founder identified through previous Mayfield network. Q2 2020 SAFE of $1.5M + follow-on $0.75M before Series A. American Express acquisition Q2 2025 at 6.75x, ~48% IRR - ~0.35x DPI for Mango Capital 2018 from a single investment.
+
+
+### 10.6 Fund structure, terms & economics
+
+**Mango Capital 2025 LP.**
+
+| Threshold | Amount |
+|---|---|
+| Minimum (1st close) | $20M |
+| Target | $40–50M |
+| Maximum (hard cap) | $50M |
+
+**Why $40–50M is the right size.** Funds 15–20 initial positions of $1.0–2.0M with $2–3M total caps; preserves math where a single 30–50x can return the fund; small enough for Robin to personally know every founder; large enough to defend ownership in winners.
+
+**Fundraising timeline.** First close completed Q4 2025 for ~$20M (inclusive of GP commit). Final close expected within 12 months of first close. Returning institutional and family-office LPs from Mango Capital 2018/2020/2022 funds. 
+
+**Announced 2025 deals:**
+- Dome Systems - Founders Dave McJannet and Marc Holmes both HashiCorp executives, Enterprise Agent Control plane. Source = direct. $500K Seed with secondary rights, Co-investors Bessemer and Redpoint
+- Keystone.ai - Founders Greg Richards and Ross Sullivan, ex-Keystone Strategy, Supply Chain foundation models; Source = direct. $3M for ~10% at spinout 
+- Perfloop - Founder Tomas Senart, ex-Axiom, Performance Engineering software agents; Source = Scout / Neil Patel and Seif Lofty @ Axiom. $1.5M SAFE for ~10% at inception 
+- Plasiv - Founder Kishan Chalumuri, ex-Apple, Manufacturing Intelligence platform; Source = Scout / Jake Kim @ Serro. $1.4M SAFE for ~10% at inception 
+- Serro.ai - Founder Jake Kim, ex-Apple, Engineering Program software agents; Source = Scout / Kranti Parisa @ Laserdata. $2M SAFE for ~10% at inception 
+
+**Headline LPA terms (same terms across all seed funds Mango Capital 2018/2020/2022).**
+
+- 2.5% annual management fee scaling down to 1.0% over time
+- 20% carried interest, stepping up to 25% at a 3x net Performance Target
+- ≥5% GP commitment (funded from Robin's personal capital, prior distributions, mgmt-fee waiver, or both - no GP-level leverage)
+- 3-5 year investment period; 10-year fund life with extensions permitted
+- European-style waterfall, per-LP basis: (1) 100% to LP until full return of capital; (2) 80/20 LP/GP until Performance Target; (3) 50/50 GP catch-up until GP has received 25% of post-Payback distributions; (4) thereafter 75/25 LP/GP
+- LPAC formed at first close from representative institutional and family-office LPs
+- Standard key-person, removal-for-cause, and successor-fund provisions
+- Side letters with MFN considered
+
+**Co-investment.** Yes - Mango Capital regularly facilitates LP co-investments in selected follow-on rounds and occasionally larger initial rounds where Mango Capital's allocation exceeds per-company cap. No obligation for LPs to participate.
+
+### 10.7 Management Company, GP & Governance
+
+**Structure.**
+
+```
+Robin Vasan - sole member / 100% owner
+  └── Mango Capital Management LLC (Delaware) - Management Company
+        ├── Mango Capital 2018 GP LLC ──► Mango Capital 2018 LP
+        ├── Mango Capital 2020 GP LLC ──► Mango Capital 2020 LP
+        ├── Mango Capital 2022 GP LLC ──► Mango Capital 2022 LP
+        ├── Mango Capital Opportunity 2022 GP LLC ──► Mango Capital Opportunity 2022 LP (follow-on vehicle)
+        └── Mango Capital 2025 GP LLC ──► Mango Capital 2025 LP
+```
+
+All entities Delaware LLC/LP. No ownership changes since 2018; Robin remains sole owner.
+
+**Regulatory status.** Mango Capital Management LLC operates as an **Exempt Reporting Adviser (ERA)** under SEC Rule 203(m)-1 (private fund adviser exemption). Files Form ADV Part 1 annually. California state notice filings where applicable. Marketing under Reg D Rule 506(b)/506(c) and Section 3(c)(1)/3(c)(7) of the Investment Company Act; accredited / qualified-purchaser subscriptions only.
+
+**Decision-making.** Single GP - Robin Vasan, sole Managing Director. No investment committee, no quorum, no majority vote. Inputs from relevant Mango Scouts, and co-investors. Advisory Committee addresses conflicts and valuation - not investment selection.
+
+**Compensation.** Robin Vasan via management fee + carried interest. CFO and any other staff via salary, and discretionary carry participation. Mango Scouts: deal-specific carried interest on transactions they materially source/work + opportunity to invest alongside the Fund.
+
+**Succession / key person.** Solo-GP vehicle. LPA includes standard key-person provisions: if Robin ceases active management, investment period auto-suspends (may become permanent absent LP supermajority); LPAC gains expanded rights. Medium-term: evaluating selection of an outside institutional manager to step in should Robin no longer be able to perform the duties. CFO function provides continuity on operations.
+
+**Outside activities.** Robin Vasan's outside activities are limited to philanthropy, family and travel. None compete with the Fund.
+
+### 10.8 Track record
+
+Detailed track record information is provided in earlier parts of this document.
+
+** Mango Capital performance - see Section 5 above
+** Pre-2018 - Mayfield performance (1997-2017) - see Section 6 above
+
+
+### 10.9 Risk management
+
+| Risk | Mitigation |
+|---|---|
+| Stage risk (seed failure rates) | 15–20 positions, $2–3M per-company cap, reserve discipline, technical diligence + Mango Scout references |
+| Concentration (enterprise SW only) | Diversification across cloud/AI infra and intelligent apps; sub-diversification within DevOps, Network, Security, Data/AI, Apps |
+| Single-GP / key-person | LPA key-person and removal-for-cause provisions, LPAC oversight, CFO + Scout bench, insurance |
+| Macro / venture-cycle | 5–10+ year hold; $40–50M sizing preserves return math through cycles; consistent ~5–7 deals/year pace |
+| Valuation / mark-down | Conservative ASC 820 marks, independent auditor, LPAC review, secondary-market awareness |
+| Co-investor / round-construction | Long-standing tier-one syndicate relationships, price-disciplined entry |
+| Liquidity | 10-year fund life + extensions, selective secondaries/continuation vehicles, opportunity-fund alongside core |
+| AI hype / valuation | Underwriting discipline; willing to pass when entry valuation precludes 10x; prefer technical defensibility over narrative |
+
+**Position-level write-downs (Mayfield-era examples, <1.0x).** Archive.com (consumer drift), Clareon (incumbent overrun), Slam Dunk (PMF failure), Determina (security category timing), Elemental Security (no consolidation), Informance (long sales cycles), TrueDemand (retail macro), Groundwork (OSS commoditization), Kickfire (HW capital intensity). Mango Capital fund-level write-downs reported quarterly to LPs and remain within the diversified-portfolio loss budget.
+
+**SWOT summary.**
+
+- **Strengths:** 3-decade track record (>$1.1B distributed at ~5.1x DPI); deep technical founder credibility; Mango Scout network; disciplined fund size; solo-GP decisiveness; LP / vendor / Mango Scout continuity across Mango 2018–2025.
+- **Weaknesses:** single-GP/key-person concentration; limited internal team bench depth; smaller capital base than mega-funds for late-stage leads; Mango 2020/2022 still early (0% DPI to date).
+- **Opportunities:** AI / Agent Era tailwind; LP demand for tighter GP alignment and higher GP commitments; secondaries / continuation vehicles to unlock interim DPI; cross-portfolio commercial programs.
+- **Threats:** mega-fund encroachment into seed at non-economic pricing; AI valuation inflation eroding 10x math; macro / IPO cyclicality delaying realized DPI; hyperscaler competitive response; regulatory shifts in enterprise; loss of key Mango Scouts.
+
+**Legal proceedings.** None - no past or pending criminal, administrative, or material civil proceedings or investigations against Mango Capital Management LLC, any GP, any affiliated entity, or Robin Vasan.
+
+### 10.10 Administration & service providers
+
+**In-house.** Investment sourcing, evaluation, decision-making, portfolio support, coordination of service providers, high-level financial oversight (CFO), LP relationship management.
+
+**Outsourced (by design).** Fund accounting, capital calls/distributions, financial statements, audit, tax / K-1, regulatory compliance support, fund-formation legal, ongoing investment counsel, IT and cybersecurity, banking and treasury.
+
+**Named advisers.**
+
+- **Legal adviser:** Cooley LLP
+- **Audit adviser:** Frank Rimerman & Co
+- **Tax adviser:** Andersen
+- **Fund Administration adviser:** Carta
+
+
+**Accounting basis.** U.S. GAAP for investment companies. Fund administrator maintains general ledger, capital accounts, investor reporting. CFO reviews quarterly NAV and capital account statements. Independent annual audit. Quarterly LP reports include portfolio update, TVPI/DPI/IRR, capital accounts, material developments. Valuations follow ASC 820, ratified by LPAC at year-end.
+
+### 10.11 Contact
+
+| Role | Name | Email | Mobile |
+|---|---|---|---|
+| Founder / GP | Robin Vasan | robin@mangocap.com | +1 (650) 868-8141 |
+| CFO | Kristina Dayback | cfo@mangocap.com | +1 (908) 461-0329 |
+
+**LinkedIn.** Robin: [linkedin.com/in/robinvasan](https://www.linkedin.com/in/robinvasan/). Kristina: [linkedin.com/in/kristina-dayback-cma-3081863b](https://www.linkedin.com/in/kristina-dayback-cma-3081863b).
+
+---
+
+## 11. Maintenance & Provenance
+
+- **Owner:** Robin Vasan
+- **Last updated:** May 2026
+- **Public sources used:** [mangocap.com](https://www.mangocap.com), [Robin's LinkedIn](https://www.linkedin.com/in/robinvasan/), [Crunchbase](https://www.crunchbase.com/organization/mango-capital), [Venture Capital Journal coverage](https://www.venturecapitaljournal.com/ex-mayfield-investor-robin-vasan-raises-40-mln-for-mango-capital/), [Crunchbase News](https://news.crunchbase.com/venture/ex-mayfield-partner-launches-new-40m-seed-fund/).
+- **Confidential sources used:** Mango Capital 2025 LP Due Diligence Questionnaire (April 2026); Mango Capital mid-Q1 2026 Investor Update.
+- **Refresh cadence:** Semi-annual - sync portfolio status and exit labels against the website; refresh fund metrics from latest fund administrator report; audit LinkedIn for new articles; re-pull DDQ Q&A after each LP-cycle DDQ revision.
+- **Open `[TBD]` items in progress:**
+  - Section 7 - LinkedIn article inventory 
+- **Complete - but to be reviewed periodically
+  - Section 3 - Portfolio - investment details
+  - Section 4 - Deal Sourcing - Sccouts - review list 
+  - Section 5 - Fund Metrics - fund-metric details and exits
+  - Section 6 - Previous Track Record - review  investments
+  - Section 10 - Due Diligence - review questions and answers 
+ 
